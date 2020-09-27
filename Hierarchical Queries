@@ -1,0 +1,10 @@
+# Hierarchical Query
+
+Recursive CTE Structure
+
+WITH RECURSIVE cte_name AS (
+    initial_query  -- anchor member
+    UNION ALL
+    recursive_query -- recursive member that references to the CTE name
+)
+SELECT * FROM cte_name;
