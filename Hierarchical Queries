@@ -1,5 +1,8 @@
 # Hierarchical Query
 
+###### A hierarchical query is a type of SQL query that handles hierarchical model data
+
+
 Recursive CTE Structure
 
 WITH RECURSIVE cte_name AS (
