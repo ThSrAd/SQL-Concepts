@@ -1,3 +1,3 @@
 # SQL-Concepts
 
-- https://github.com/ThSrAd/SQL-Concepts/blob/master/Hierarchical%20Query.ipynb
+- [Hierarchical Query](https://github.com/ThSrAd/SQL-Concepts/blob/master/Hierarchical%20Query.ipynb)
